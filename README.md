@@ -1,6 +1,8 @@
+
+
 # VibeMath
 
-I was in a MPhil program in Math so it's not 100% vibe ;) Finally I can test my intuition.
+I was in an MPhil program in Math so it's not 100% vibe ;) Finally I can test my intuition.
 
 And yes I am working on the real deal too, using other attack vectors.
 
