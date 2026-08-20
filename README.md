@@ -6,4 +6,4 @@ I was in an MPhil program in Math so it's not 100% vibe ;) Finally I can test my
 
 And yes I am working on the real deal too, using other attack vectors.
 
-UPDATE: 260815-Heath-Brown_Type_Zero_Free_Region now at 4.74836 and decreasing
+UPDATE: 260815-Heath-Brown_Type_Zero_Free_Region now at 4.7302 and decreasing
